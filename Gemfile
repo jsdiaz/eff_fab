@@ -22,6 +22,7 @@ gem 'figaro'
 gem "paperclip", "~> 4.3"
 gem 'puma'
 gem 'simple_form'
+gem 'therubyracer'
 group :development do
   gem 'better_errors'
   gem "binding_of_caller"
